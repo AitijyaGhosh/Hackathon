@@ -1,0 +1,2 @@
+Created a 3 ml models which can identify diabetes from symptoms with 85 percent acccuracy using logisticregression, K-nearest neighburs and naive bayes algorithm
+Due to less time, was unable to give ppt and video format.
